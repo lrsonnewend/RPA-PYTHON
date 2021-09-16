@@ -1,0 +1,6 @@
+#ignore enviroment var
+.env
+
+#igonre .txt datas
+cpf_teste_dirf.txt
+env.txt
